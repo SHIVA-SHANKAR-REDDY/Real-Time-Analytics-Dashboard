@@ -3,7 +3,7 @@
 This project provides a real-time analytics dashboard designed to display live data insights. It is structured to have separate components for backend services, frontend interface, and data processing.
 
 ## Project Structure
-
+```bash
 real-time-analytics-dashboard/
 ├── backend/
 │ ├── app.js
@@ -21,9 +21,8 @@ real-time-analytics-dashboard/
 │ └── requirements.txt
 ├── docker-compose.yml
 └── README.md
+```
 
-markdown
-Copy code
 
 ## Components
 
