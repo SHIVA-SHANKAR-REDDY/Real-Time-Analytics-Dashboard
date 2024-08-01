@@ -70,7 +70,6 @@ The `docker-compose.yml` file is used to define and run multi-container Docker a
    Navigate to the backend directory and install dependencies:
 
 ```bash
-Copy code
 cd backend
 npm install
 ```
