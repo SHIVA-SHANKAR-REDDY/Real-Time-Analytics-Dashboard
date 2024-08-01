@@ -1,0 +1,9 @@
+# Node.js dependencies
+node_modules/
+
+# Python bytecode
+*.pyc
+__pycache__/
+
+# IDE settings
+.vscode/
